@@ -1,0 +1,3 @@
+# this is cron tab for user
+*   *   *   *   *   sh /home/rahul/cronfile/exampl
+
